@@ -134,11 +134,18 @@ RECOGNITIONS = [
     },
 ]
 
+CUSTOMER_BUILDS = [
+    "O-2513293 - Small Business Connect",
+    "O-3101277 - BOQ - Agentic AI expansion into lending and complex servicing process",
+    "O-2506349 - DTP SPP Renewal",
+]
+
 SECTIONS = {
     "Events / Workshops / Experiential Selling": EVENTS_WORKSHOPS,
     "Internal Selling": INTERNAL_SELLING,
     "People & Team Management": PEOPLE_TEAM_MANAGEMENT,
     "Recognitions": RECOGNITIONS,
+    "Customer Builds": CUSTOMER_BUILDS,
 }
 
 # ============================================================
@@ -165,6 +172,9 @@ for tab, (section_name, entries) in zip(tabs, SECTIONS.items()):
             st.info("No entries yet — add some in app.py.")
             continue
         for entry in entries:
+            if isinstance(entry, str):
+                st.markdown(f"- {entry}")
+                continue
             with st.container(border=True):
                 header_col, date_col = st.columns([4, 1])
                 header_col.markdown(f"**{entry['title']}**")
