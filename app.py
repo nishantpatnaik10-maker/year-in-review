@@ -140,12 +140,18 @@ CUSTOMER_BUILDS = [
     "O-2506349 - DTP SPP Renewal",
 ]
 
+INTERNAL_DEMOX_OPERATIONS = [
+    "Led and completed rebranding of PW Simulation experiences, so that these can be used across multiple customer events.",
+    "Presented in tech talk sessions and shared experiences of customer engagements.",
+]
+
 SECTIONS = {
     "Events / Workshops / Experiential Selling": EVENTS_WORKSHOPS,
     "Internal Selling": INTERNAL_SELLING,
     "People & Team Management": PEOPLE_TEAM_MANAGEMENT,
     "Recognitions": RECOGNITIONS,
     "Customer Builds": CUSTOMER_BUILDS,
+    "Internal DemoX Operations": INTERNAL_DEMOX_OPERATIONS,
 }
 
 # ============================================================
