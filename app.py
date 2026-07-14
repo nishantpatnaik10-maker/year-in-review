@@ -22,16 +22,40 @@ PROFILE = {
 
 EVENTS_WORKSHOPS = [
     {
-        "title": "Example: Experiential Selling Workshop — [Client/Event Name]",
-        "date": "Month 2026",
-        "description": "What the event/workshop was and your role in it.",
-        "impact": "Outcome or impact (e.g. attendees, deals influenced, feedback).",
+        "title": "BUPA AI Learning Week",
+        "date": "February 2026",
+        "description": "Sharing the floor with other vendors to showcase our product offerings and blueprint.",
+        "impact": "Attendees were impressed with the Platform blueprint as well as Customer Engagement blueprint.",
     },
     {
-        "title": "Example: PegaWorld Demo/Session",
-        "date": "Month 2026",
-        "description": "Brief description of the session or demo.",
-        "impact": "Outcome or impact.",
+        "title": "Pega Innovate - Sydney",
+        "date": "March 2026",
+        "description": "An annual marketing event, where we have booths showcasing our product offerings to our partners, customers and prospects. Set up booths for Customer Service and Back Office simulations, also rented equipment for it.",
+        "impact": "Lot of customers tried out the experiences and were impressed with how we had gamified the feature functions. Great chats around adopting some of the feature functions with customers.",
+    },
+    {
+        "title": "BUPA Modernization Workshop",
+        "date": "April 2026",
+        "description": "In the modernization program we showed how using Pega's case management, Gen AI and Agentic capabilities, BUPA can reduce the manual tasks, process claims in a timely manner with complete auditability and traceability.",
+        "impact": "Got an opportunity to do a more detailed workshop and also a POC to gauge the Doc Agent capabilities.",
+    },
+    {
+        "title": "CBA Hands on Workshop",
+        "date": "May 2026",
+        "description": "Getting CBA's architects and engineers to be hands on with Pega blueprint and Pega's agentic and Generative AI capabilities across two locations, Sydney and Bengaluru.",
+        "impact": "Again great conversations, they were impressed to see the latest and greatest in Pega. They were happy to take their learnings and sell them internally.",
+    },
+    {
+        "title": "Telstra Experiential Workshop",
+        "date": "June 2026",
+        "description": "After doing a Blueprint workshop with them and defining a hi-fidelity blueprint, we used the experiential assets and integration with Salesforce to showcase how we can not only improve the customer experience but also how we can enable the customer to do more on their own. We also showed how we can integrate with their microservices and some of our agentic capabilities.",
+        "impact": "The execs liked it and wanted us to do the same presentation to other key stakeholders in Telstra.",
+    },
+    {
+        "title": "National Archives of Australia",
+        "date": "June 2026",
+        "description": "Showed the customer our experiential assets after demonstrating our Blueprint capabilities.",
+        "impact": "There was great engagement from the customers.",
     },
 ]
 
