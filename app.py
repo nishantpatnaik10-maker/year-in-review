@@ -31,7 +31,7 @@ EVENTS_WORKSHOPS = [
         "title": "Pega Innovate - Sydney",
         "date": "March 2026",
         "description": "An annual marketing event, where we have booths showcasing our product offerings to our partners, customers and prospects. Set up booths for Customer Service and Back Office simulations, also rented equipment for it.",
-        "impact": "Lot of customers tried out the experiences and were impressed with how we had gamified the feature functions. Great chats around adopting some of the feature functions with customers.",
+        "impact": "A lot of customers tried out the experiences and were impressed with how we had gamified the feature functions. Great chats around adopting some of the feature functions with customers.",
     },
     {
         "title": "BUPA Modernization Workshop",
@@ -40,10 +40,10 @@ EVENTS_WORKSHOPS = [
         "impact": "Got an opportunity to do a more detailed workshop and also a POC to gauge the Doc Agent capabilities.",
     },
     {
-        "title": "CBA Hands on Workshop",
+        "title": "CBA Hands-on Workshop",
         "date": "May 2026",
-        "description": "Getting CBA's architects and engineers to be hands on with Pega blueprint and Pega's agentic and Generative AI capabilities across two locations, Sydney and Bengaluru.",
-        "impact": "Again great conversations, they were impressed to see the latest and greatest in Pega. They were happy to take their learnings and sell them internally.",
+        "description": "Getting CBA's architects and engineers hands-on with Pega blueprint and Pega's agentic and Generative AI capabilities across two locations, Sydney and Bengaluru.",
+        "impact": "There were great conversations again; they were impressed to see the latest and greatest in Pega, and were happy to take their learnings and sell them internally.",
     },
     {
         "title": "Telstra Experiential Workshop",
@@ -64,12 +64,12 @@ INTERNAL_SELLING = [
         "title": "Test Drive Bootcamp - APJ",
         "date": "May 2026",
         "description": "Presented in the bootcamps across three regions AUS/NZ, Asia & Japan about the experiential assets and how it can help in the selling motion.",
-        "impact": "There was immediate adoption and lot of requests to provision experiential assets has been trickling in.",
+        "impact": "There was immediate adoption, and a lot of requests to provision experiential assets have been trickling in.",
     },
     {
         "title": "GTM Product Overview and BP/1:1 CE BP Overview",
         "date": "Every month",
-        "description": "Great opportunity to introduce to newbies DemoX product offerings in their early days in Pega.",
+        "description": "A great opportunity to introduce DemoX's product offerings to newbies in their early days at Pega.",
         "impact": "Immediate understanding of when to partner with DemoX.",
     },
 ]
