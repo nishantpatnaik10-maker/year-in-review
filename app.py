@@ -61,10 +61,16 @@ EVENTS_WORKSHOPS = [
 
 INTERNAL_SELLING = [
     {
-        "title": "Example: Internal enablement session for [Team]",
-        "date": "Month 2026",
-        "description": "What you did to sell an idea, tool, or approach internally.",
-        "impact": "Result — adoption, buy-in, follow-on work.",
+        "title": "Test Drive Bootcamp - APJ",
+        "date": "May 2026",
+        "description": "Presented in the bootcamps across three regions AUS/NZ, Asia & Japan about the experiential assets and how it can help in the selling motion.",
+        "impact": "There was immediate adoption and lot of requests to provision experiential assets has been trickling in.",
+    },
+    {
+        "title": "GTM Product Overview and BP/1:1 CE BP Overview",
+        "date": "Every month",
+        "description": "Great opportunity to introduce to newbies DemoX product offerings in their early days in Pega.",
+        "impact": "Immediate understanding of when to partner with DemoX.",
     },
 ]
 
