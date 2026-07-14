@@ -6,11 +6,12 @@ st.set_page_config(page_title="My Year in Review", page_icon="✨", layout="wide
 # EDIT ME: profile / header info
 # ============================================================
 PROFILE = {
-    "name": "Your Name",
-    "title": "Your Role / Title",
+    "name": "Nishant Patnaik",
+    "title": "DemoX Manager APJ",
     "year": "2026",
-    "summary": "A short one or two sentence summary of your year — the focus areas, "
-    "themes, or highlights you want people to take away first.",
+    "summary": "H1 was quite busy with customer engagements/workshops, demo builds, "
+    "recruitment, building brand awareness of DemoX, participating in marketing "
+    "events, and also looking at partnerships to have more people on the ground.",
 }
 
 # ============================================================
@@ -54,10 +55,46 @@ PEOPLE_TEAM_MANAGEMENT = [
 
 RECOGNITIONS = [
     {
-        "title": "Example: Recognition/award name",
-        "date": "Month 2026",
-        "description": "Who gave it and why.",
+        "title": "Pega Praise Recognition #1",
+        "date": "",
+        "description": "",
         "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/cbd748d2-e370-40c1-8d16-e5c95e22c358",
+    },
+    {
+        "title": "Pega Praise Recognition #2",
+        "date": "",
+        "description": "",
+        "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/5508cf17-dd7c-4d07-bfd7-679e9094bb23",
+    },
+    {
+        "title": "Pega Praise Recognition #3",
+        "date": "",
+        "description": "",
+        "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/98058c3a-7df1-4ea7-bd1d-3ae0d3f57796",
+    },
+    {
+        "title": "Pega Praise Recognition #4",
+        "date": "",
+        "description": "",
+        "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/726ad373-d57c-4b1b-8819-a6a7ada2f560",
+    },
+    {
+        "title": "Pega Praise Recognition #5",
+        "date": "",
+        "description": "",
+        "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/123d3cb2-ed49-4b56-b0f4-313463a8072c",
+    },
+    {
+        "title": "Pega Praise Recognition #6",
+        "date": "",
+        "description": "",
+        "impact": "",
+        "link": "https://pegasystems.rewardgateway.com/SocialRecognition/ViewNomination/0600cf2c-285f-44e3-ac73-9cacdf8fc08d",
     },
 ]
 
@@ -101,3 +138,5 @@ for tab, (section_name, entries) in zip(tabs, SECTIONS.items()):
                     st.write(entry["description"])
                 if entry.get("impact"):
                     st.caption(f"Impact: {entry['impact']}")
+                if entry.get("link"):
+                    st.markdown(f"[View details]({entry['link']})")
