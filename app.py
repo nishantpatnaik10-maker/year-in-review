@@ -76,10 +76,16 @@ INTERNAL_SELLING = [
 
 PEOPLE_TEAM_MANAGEMENT = [
     {
-        "title": "Example: Mentoring / onboarding [name or team]",
-        "date": "Month 2026",
-        "description": "What the people/team management activity involved.",
-        "impact": "Outcome for the person/team.",
+        "title": "Hiring first batch of DemoX Live Solution Consultants",
+        "date": "May/June 2026",
+        "description": "Scouting and being part of the interview process to select the new team members.",
+        "impact": "These new team members would help in spreading the brand awareness of DemoX across the region as well as more customer engagement hours from a DemoX perspective.",
+    },
+    {
+        "title": "Continuous mentoring of the current team",
+        "date": "All months 2026",
+        "description": "Mentoring the current team members, regular 1:1s, bringing the team together in team meetings.",
+        "impact": "To help them to deliver their best in the field and also make sure they are up to date with the latest and greatest.",
     },
 ]
 
