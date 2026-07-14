@@ -9,9 +9,12 @@ PROFILE = {
     "name": "Nishant Patnaik",
     "title": "DemoX Manager APJ",
     "year": "2026",
-    "summary": "H1 was quite busy with customer engagements/workshops, demo builds, "
-    "recruitment, building brand awareness of DemoX, participating in marketing "
-    "events, and also looking at partnerships to have more people on the ground.",
+    "summary": "H1 2026 was anchored by hands-on workshops and experiential selling with "
+    "BUPA, CBA, Telstra, and National Archives of Australia, alongside internal enablement "
+    "through bootcamps, GTM overviews, and rebranded PW Simulation assets. I also grew the "
+    "team by hiring the first batch of DemoX Live Solution Consultants while mentoring the "
+    "existing team, delivered three customer builds, and was recognized six times through "
+    "Pega Praise for the impact of this work.",
 }
 
 # ============================================================
